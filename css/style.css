@@ -1,9 +1,9 @@
-
-
 body {
   background: #fff;
   color: #666666;
   font-family: "Open Sans", sans-serif;
+  line-height: 30px;
+  text-align: justify;
 }
 
 a {
